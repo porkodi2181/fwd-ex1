@@ -1,4 +1,4 @@
-![Screenshot 2025-03-11 113239](https://github.com/user-attachments/assets/b268ddcb-f5fb-483c-b551-69b9af7d67a4)
+
 # EX01 Developing a Simple Webserver
 ## Date:
 
